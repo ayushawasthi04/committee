@@ -1,4 +1,4 @@
-#GeekHaven Committee 2015-2016
+#Gekkhaven Committee 2015-2016
 
 ##Overall Coordinators
 * [Sanjeev S](https://github.com/ddemented)
@@ -57,7 +57,7 @@
 
 ###Members
 * Lavesh Kaushik
-* Ayush Awasti
+* Ayush Awasthi(https://github.com/ayushawasthi04)
 * Mohd Abdulla
 * [Teja Vojjala](https://github.com/iit2014086)
 * Utkarsh Srivastava
